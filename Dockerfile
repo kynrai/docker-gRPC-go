@@ -1,6 +1,6 @@
 FROM golang:latest
 
-MAINTAINER "kynrai@gmail.com"
+MAINTAINER Steven Lee <kynrai@gmail.com>
 
 RUN apt-get update && apt-get install -y \
         unzip \
