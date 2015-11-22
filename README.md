@@ -7,4 +7,4 @@ This is a golang docker image with gRPC compiled into it. Its main use is to gen
 ## Usage
 Just build the docker image or run it from docker hub at:
 
-    docker pull kynrai/grpc
+    docker pull kynrai/docker-grpc-go
